@@ -17,7 +17,7 @@ echo 'Tool installation complete.'
 echo ''
 echo ''
 echo 'Next, Launch the included spooftest.py that comes with the repo github.com/scramblr/spooftest.git'
-echo 'shell$ python3 spoof_test.py 1.2.3.4'
+echo 'server$ python3 spooftest.py 1.2.3.4 100'
 echo
 echo
 
