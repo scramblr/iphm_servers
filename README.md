@@ -4,6 +4,8 @@ _This shows you how to test new servers for IP spoofing capabilities, **without 
 >**SNITCH PROJECTS LIKE CAIDA ARE THE NUMBER ONE WAY YOU CAN QUICKLY FORCE A ONCE COOL HOSTING PROVIDER TO STOP ALLOWING SPOOFING.**
 >**STOP USING THEIR FUCKING SCRIPTS!! USE THIS METHOD BELOW AND NEVER WORRY ABOUT IT AGAIN.**
 
+# SCRAMBLR SPOOFTEST TECHNIQUES - ANNOYING GITHUB USERS SINCE 1993
+
 # ----[ Requirements to test for IP Spoofing ]----
 # 1.) tcpdump Server: Can be any server that is able to run tcpdump. Does not need to be able to spoof.
 # 2.) Your IP Spoof (IPHM) Server, with "scapy" or "python-scapy" installed on it.
