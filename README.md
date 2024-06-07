@@ -8,6 +8,7 @@ _This shows you how to test new servers for IP spoofing capabilities, **without 
 IP Spoofing / IPHM IP Header Modification Testing
 
 # ----[ Requirements to test for IP Spoofing ]----
+You will need: 2 Servers. One random server to send spoofed packets to, and one server that's capable of IP spoofing. You will also need to know how to copy and paste.
 # 1.) tcpdump Server: Can be any server that is able to run tcpdump. Does not need to be able to spoof.
 # 2.) Your IP Spoof (IPHM) Server, with "scapy" or "python-scapy" installed on it.
 
